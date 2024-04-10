@@ -38,7 +38,7 @@
 4. Games
    * [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/)
 
-### What helps me making this Readme:
+### What helped me making this Readme:
 * [Logo](https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-education-)
 * [Markdown](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 

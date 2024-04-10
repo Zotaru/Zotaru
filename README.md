@@ -30,7 +30,7 @@
    * English 🍵
 
 
-### Other things to do to progress:
+### Other things I ~~do~~(/plan to do) on my code journey:
 
 1. ![Coding game](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white)
 2. [Try Hack Me](https://tryhackme.com/)
@@ -38,11 +38,7 @@
 4. Games
    * [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/)
 
-### If you hesitate to learn code remember this:
-> Everybody should learn a computer language, because it teaches you how to think.
-> [S.Jobs](https://www.youtube.com/watch?v=BRTOlPdyPYU)
-
-### On this quote, good bye and good luck
+### On this note, good bye and good luck
 <p align="center">
   <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/Lr4RSBQs8k9aCKKtjI/giphy.gif"/>
 </p>

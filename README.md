@@ -38,6 +38,10 @@
 4. Games
    * [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/)
 
+### What helps me making this Readme:
+* [Logo](https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-education-)
+* [Markdown](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
+
 ### On this note, good bye and good luck
 <p align="center">
   <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/Lr4RSBQs8k9aCKKtjI/giphy.gif"/>

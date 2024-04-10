@@ -31,7 +31,7 @@
   * French
   * English
 
-
+&nbsp;
 Thank you for reading, Bye
 <p align="center">
   <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/Lr4RSBQs8k9aCKKtjI/giphy.gif"/>

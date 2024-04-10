@@ -21,7 +21,7 @@
 
 <img align="right" width="55%" alt="GIF" src="https://media.giphy.com/media/jFJW3hOGQgTUk/giphy.gif"></img>
 
-### What languages have you covered ?
+### What languages have I covered ?
 
 1. ![C language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 2. ![C++ language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)

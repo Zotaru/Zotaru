@@ -6,14 +6,7 @@
 
 ### I'm a [42](https://42.fr/) student and on this github, you will find all my projects during my cursus and more.
 ### Many years ago, some friends advise me to try the entry test of 42 school because for them I was made to be a developer. The entry test (named the pool) consists of a month at school dotted with exams.
-
-### POV my friends that corrupted me:
-<p align="center">
-  <img align="center" width="30%" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2E5MjFuazdiNnBjODNscTI5a2E4cWN1cXYxY2xuaGxlbHd4MnVleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ae7SI3LoPYj8Q/giphy.gif"/>
-</p>
-
-### I loved the experienced and entered the school. Coding became my every day life and i love it !
-### My goal is now to become a skillful developer. 
+ 
 
 ### What is [42](https://42.fr/) ?
 

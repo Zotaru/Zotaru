@@ -5,8 +5,6 @@
 </p>
 
 ### I'm a [42](https://42.fr/) student and on this github, you will find all my projects during my cursus and more.
-### Many years ago, some friends advise me to try the entry test of 42 school because for them I was made to be a developer. The entry test (named the pool) consists of a month at school dotted with exams.
- 
 
 ### What is [42](https://42.fr/) ?
 
